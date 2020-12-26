@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/daudmabena1/e2f4ba87-1731-4867-bf64-585588c69bd9/cefac076-7e2a-4b38-ac53-64899b41988f/_apis/work/boardbadge/38bc6db2-f4d5-48cf-bfdd-980661048710)](https://dev.azure.com/daudmabena1/e2f4ba87-1731-4867-bf64-585588c69bd9/_boards/board/t/cefac076-7e2a-4b38-ac53-64899b41988f/Microsoft.RequirementCategory)
 # Ajaxify
 Ajaxify your entire website instantly with this simple drop-in script using the HTML5 History API with History.js and jQuery ScrollTo.
 
